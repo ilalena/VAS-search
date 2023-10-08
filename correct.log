@@ -1,0 +1,71 @@
+Sending the following bytes: b'00000009cf24e25e011c000000' -- 13 bytes
+Received: 
+timestamp     : 2080-02-16 11:22:38
+command       : SELECT_TP
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 31.99°C
+test time     : 0.076 seconds
+
+Sending the following bytes: b'00000009df24e25e0a04000000' -- 13 bytes
+Received: 
+timestamp     : 2088-08-19 08:46:54
+command       : VAS
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 32.01°C
+test time     : 13.836 seconds
+
+Sending the following bytes: b'00000009e224e25e0df4010000' -- 13 bytes
+Received: 
+timestamp     : 2090-03-24 21:47:42
+command       : T_DOWN
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 32.01°C
+test time     : 16.982 seconds
+
+Sending the following bytes: b'00000009ec24e25e0a07000000' -- 13 bytes
+Received: 
+timestamp     : 2095-07-18 17:10:22
+command       : VAS
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 31.99°C
+test time     : 27.171 seconds
+
+Sending the following bytes: b'00000009ef24e25e0cf4010000' -- 13 bytes
+Received: 
+timestamp     : 2097-02-20 06:11:10
+command       : T_UP
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 32.0°C
+test time     : 30.29 seconds
+
+Sending the following bytes: b'00000009f924e25e0a0a000000' -- 13 bytes
+Received: 
+timestamp     : 2102-06-17 01:33:50
+command       : VAS
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 33.46°C
+test time     : 40.396 seconds
+
+Sending the following bytes: b'00000005fc24e25e05' -- 9 bytes
+Received: 
+timestamp     : 2104-01-20 14:34:38
+command       : STOP
+state         : TEST IN PROGRESS
+test state    : RUNNING
+response code : OK
+temperature   : 32.01°C
+test time     : 43.631 seconds
+
+
